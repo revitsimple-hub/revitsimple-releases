@@ -1,2 +1,12 @@
-# revitsimple-releases
-Official release packages for Revit Simple. Source code is maintained separately.
+# Revit Simple — официальные выпуски
+
+Исходный код ведётся отдельно. Здесь публикуются установщики и подписанные пакеты обновлений.
+
+Сейчас используется один канал обновлений — **beta**. Актуальная версия: **1.5.0.181** для Revit 2023 и Revit 2027.
+
+- [Описание и файлы beta 1.5.0.181](https://github.com/revitsimple-hub/revitsimple-releases/releases/tag/v1.5.0.181)
+- [Универсальный установщик для Revit 2023/2027](https://github.com/revitsimple-hub/revitsimple-releases/releases/download/v1.5.0.181/RevitSimple-1.5.0.181-Setup.exe)
+
+Перед установкой сохраните проекты и закройте Revit. В старых версиях плагина выберите «Бета версия» в окне обновлений. Начиная с 1.5.0.181 доступен только beta-канал.
+
+Revit 2024–2026 пока не получают этот пакет. Бета-версия может содержать ошибки; ручная проверка 1.5.0.181 внутри Revit ещё не выполнена. Предыдущие выпуски сохранены для отката и не являются активным каналом stable.
